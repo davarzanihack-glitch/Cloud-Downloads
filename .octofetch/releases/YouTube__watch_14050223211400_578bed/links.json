@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7407",
+  "folder": "YouTube__watch_14050223211400_578bed",
+  "base_name": "GPfnWaaDXuU_GPfnWaaDXuU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/davarzanihack-glitch/Cloud-Downloads/releases/tag/co-releases-v1-7407",
+  "files": [
+    {
+      "name": "GPfnWaaDXuU_GPfnWaaDXuU_720p.mp4",
+      "url": "https://github.com/davarzanihack-glitch/Cloud-Downloads/releases/download/co-releases-v1-7407/GPfnWaaDXuU_GPfnWaaDXuU_720p.mp4",
+      "api_url": "https://api.github.com/repos/davarzanihack-glitch/Cloud-Downloads/releases/assets/419625880",
+      "id": 419625880,
+      "size": 113164807,
+      "download_count": 0
+    }
+  ]
+}
